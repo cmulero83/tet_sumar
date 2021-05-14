@@ -1,0 +1,14 @@
+{
+  "name": "sumas",
+  "version": "1.0.0",
+  "description": "Ejercicio de sumas con test automaticos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
